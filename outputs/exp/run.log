@@ -1,0 +1,4 @@
+Namespace(batch_size=32, class_choice=None, dataset='shapenetpart', dropout=0.5, emb_dims=1024, epochs=200, eval=False, exp_name='exp', k=40, lr=0.001, model='dgcnn', model_path='', momentum=0.9, no_cuda=False, num_points=2048, scheduler='cos', seed=1, test_batch_size=16, use_sgd=True, visu='airplane_0', visu_format='ply')
+Using GPU : 0 from 1 devices
+Train 0, loss: 1.740268, train acc: 0.829927, train avg acc: 0.430906, train iou: 0.669757
+Test 0, loss: 1.539935, test acc: 0.893369, test avg acc: 0.610680, test iou: 0.752149

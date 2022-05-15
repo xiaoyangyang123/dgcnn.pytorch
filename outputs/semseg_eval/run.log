@@ -1,0 +1,52 @@
+Namespace(batch_size=32, dataset='S3DIS', dropout=0.5, emb_dims=1024, epochs=100, eval=True, exp_name='semseg_eval', k=20, lr=0.001, model='dgcnn', model_root='outputs/semseg_6/models/', momentum=0.9, no_cuda=False, num_points=4096, scheduler='cos', seed=1, test_area='all', test_batch_size=16, use_sgd=True, visu='', visu_format='ply')
+Using GPU : 0 from 1 devices
+Namespace(batch_size=32, dataset='S3DIS', dropout=0.5, emb_dims=1024, epochs=100, eval=True, exp_name='semseg_eval', k=20, lr=0.001, model='dgcnn', model_root='outputs/semseg_6/models/', momentum=0.9, no_cuda=False, num_points=4096, scheduler='cos', seed=1, test_area='all', test_batch_size=16, use_sgd=True, visu='', visu_format='ply')
+Using GPU : 0 from 1 devices
+Test :: test area: 1, test acc: 0.896851, test avg acc: 0.778327, test iou: 0.691782
+Overall Test :: test acc: 0.896851, test avg acc: 0.778327, test iou: 0.691782
+Namespace(batch_size=32, dataset='S3DIS', dropout=0.5, emb_dims=1024, epochs=100, eval=True, exp_name='semseg_eval', k=20, lr=0.001, model='dgcnn', model_root='pretrained/semseg/', momentum=0.9, no_cuda=False, num_points=4096, scheduler='cos', seed=1, test_area='all', test_batch_size=16, use_sgd=True, visu='', visu_format='ply')
+Using GPU : 0 from 1 devices
+Test :: test area: 1, test acc: 0.896851, test avg acc: 0.778327, test iou: 0.691782
+Overall Test :: test acc: 0.896851, test avg acc: 0.778327, test iou: 0.691782
+Test :: test area: 2, test acc: 0.816901, test avg acc: 0.605226, test iou: 0.435466
+Namespace(batch_size=32, dataset='S3DIS', dropout=0.5, emb_dims=1024, epochs=100, eval=True, exp_name='semseg_eval', k=20, lr=0.001, model='dgcnn', model_root='pretrained/semseg/', momentum=0.9, no_cuda=False, num_points=4096, scheduler='cos', seed=1, test_area='all', test_batch_size=16, use_sgd=True, visu='', visu_format='ply')
+Using GPU : 0 from 1 devices
+Test :: test area: 1, test acc: 0.896851, test avg acc: 0.778327, test iou: 0.691782
+Overall Test :: test acc: 0.896851, test avg acc: 0.778327, test iou: 0.691782
+Test :: test area: 2, test acc: 0.816901, test avg acc: 0.605226, test iou: 0.435466
+Namespace(batch_size=32, dataset='S3DIS', dropout=0.5, emb_dims=1024, epochs=100, eval=True, exp_name='semseg_eval', k=20, lr=0.001, model='dgcnn', model_root='pretrained/semseg/', momentum=0.9, no_cuda=False, num_points=4096, scheduler='cos', seed=1, test_area='all', test_batch_size=16, use_sgd=True, visu='', visu_format='ply')
+Using GPU : 0 from 1 devices
+Test :: test area: 1, test acc: 0.896851, test avg acc: 0.778327, test iou: 0.691782
+Overall Test :: test acc: 0.896851, test avg acc: 0.778327, test iou: 0.691782
+Test :: test area: 2, test acc: 0.816901, test avg acc: 0.605226, test iou: 0.435466
+Namespace(batch_size=32, dataset='S3DIS', dropout=0.5, emb_dims=1024, epochs=100, eval=True, exp_name='semseg_eval', k=20, lr=0.001, model='dgcnn', model_root='pretrained/semseg/', momentum=0.9, no_cuda=False, num_points=4096, scheduler='cos', seed=1, test_area='all', test_batch_size=16, use_sgd=True, visu='', visu_format='ply')
+Using GPU : 0 from 1 devices
+Test :: test area: 1, test acc: 0.896851, test avg acc: 0.778327, test iou: 0.691782
+Overall Test :: test acc: 0.896851, test avg acc: 0.778327, test iou: 0.691782
+Test :: test area: 2, test acc: 0.816901, test avg acc: 0.605226, test iou: 0.435466
+Namespace(batch_size=32, dataset='S3DIS', dropout=0.5, emb_dims=1024, epochs=100, eval=True, exp_name='semseg_eval', k=20, lr=0.001, model='dgcnn', model_root='pretrained/semseg/', momentum=0.9, no_cuda=False, num_points=4096, scheduler='cos', seed=1, test_area='all', test_batch_size=16, use_sgd=True, visu='', visu_format='ply')
+Using GPU : 0 from 1 devices
+Test :: test area: 1, test acc: 0.896851, test avg acc: 0.778327, test iou: 0.691782
+Overall Test :: test acc: 0.896851, test avg acc: 0.778327, test iou: 0.691782
+Test :: test area: 2, test acc: 0.816901, test avg acc: 0.605226, test iou: 0.435466
+Namespace(batch_size=32, dataset='S3DIS', dropout=0.5, emb_dims=1024, epochs=100, eval=True, exp_name='semseg_eval', k=20, lr=0.001, model='dgcnn', model_root='pretrained/semseg/', momentum=0.9, no_cuda=False, num_points=4096, scheduler='cos', seed=1, test_area='all', test_batch_size=16, use_sgd=True, visu='', visu_format='ply')
+Using GPU : 0 from 1 devices
+Test :: test area: 1, test acc: 0.896851, test avg acc: 0.778327, test iou: 0.691782
+Namespace(batch_size=32, dataset='S3DIS', dropout=0.5, emb_dims=1024, epochs=100, eval=True, exp_name='semseg_eval', k=20, lr=0.001, model='dgcnn', model_root='pretrained/semseg/', momentum=0.9, no_cuda=False, num_points=4096, scheduler='cos', seed=1, test_area='all', test_batch_size=16, use_sgd=True, visu='', visu_format='ply')
+Using GPU : 0 from 1 devices
+Test :: test area: 1, test acc: 0.896851, test avg acc: 0.778327, test iou: 0.691782
+Overall Test :: test acc: 0.896851, test avg acc: 0.778327, test iou: 0.691782
+Test :: test area: 2, test acc: 0.816901, test avg acc: 0.605226, test iou: 0.435466
+Namespace(batch_size=32, dataset='S3DIS', dropout=0.5, emb_dims=1024, epochs=100, eval=True, exp_name='semseg_eval', k=20, lr=0.001, model='dgcnn', model_root='pretrained/semseg/', momentum=0.9, no_cuda=False, num_points=4096, scheduler='cos', seed=1, test_area='all', test_batch_size=16, use_sgd=True, visu='', visu_format='ply')
+Using GPU : 0 from 1 devices
+Test :: test area: 1, test acc: 0.896851, test avg acc: 0.778327, test iou: 0.691782
+Overall Test :: test acc: 0.896851, test avg acc: 0.778327, test iou: 0.691782
+Test :: test area: 2, test acc: 0.816901, test avg acc: 0.605226, test iou: 0.435466
+Namespace(batch_size=32, dataset='S3DIS', dropout=0.5, emb_dims=1024, epochs=100, eval=True, exp_name='semseg_eval', k=20, lr=0.001, model='dgcnn', model_root='pretrained/semseg/', momentum=0.9, no_cuda=False, num_points=4096, scheduler='cos', seed=1, test_area='all', test_batch_size=16, use_sgd=True, visu='', visu_format='ply')
+Using GPU : 0 from 1 devices
+Test :: test area: 1, test acc: 0.896851, test avg acc: 0.778327, test iou: 0.691782
+Test :: test area: 2, test acc: 0.816901, test avg acc: 0.605226, test iou: 0.435466
+Namespace(batch_size=32, dataset='S3DIS', dropout=0.5, emb_dims=1024, epochs=100, eval=True, exp_name='semseg_eval', k=20, lr=0.001, model='dgcnn', model_root='pretrained/semseg/', momentum=0.9, no_cuda=False, num_points=4096, scheduler='cos', seed=1, test_area='all', test_batch_size=16, use_sgd=True, visu='', visu_format='ply')
+Using GPU : 0 from 1 devices
+Namespace(batch_size=32, dataset='S3DIS', dropout=0.5, emb_dims=1024, epochs=100, eval=True, exp_name='semseg_eval', k=20, lr=0.001, model='dgcnn', model_root='outputs/semseg_6/models/', momentum=0.9, no_cuda=False, num_points=4096, scheduler='cos', seed=1, test_area='all', test_batch_size=16, use_sgd=True, visu='', visu_format='ply')
+Using GPU : 0 from 1 devices

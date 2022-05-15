@@ -1,0 +1,53 @@
+Namespace(batch_size=32, class_choice=None, dataset='shapenetpart', dropout=0.5, emb_dims=1024, epochs=200, eval=True, exp_name='partseg_eval', k=40, lr=0.001, model='dgcnn', model_path='outputs/partseg/models/model.t7', momentum=0.9, no_cuda=False, num_points=2048, scheduler='cos', seed=1, test_batch_size=16, use_sgd=True, visu='', visu_format='ply')
+Using GPU : 0 from 1 devices
+Test :: test acc: 0.917908, test avg acc: 0.874238, test iou: 0.842757
+Namespace(batch_size=32, class_choice=None, dataset='shapenetpart', dropout=0.5, emb_dims=1024, epochs=200, eval=True, exp_name='partseg_eval', k=40, lr=0.001, model='dgcnn', model_path='pretrained/model.partseg.t7', momentum=0.9, no_cuda=False, num_points=2048, scheduler='cos', seed=1, test_batch_size=16, use_sgd=True, visu='', visu_format='ply')
+Using GPU : 0 from 1 devices
+Test :: test acc: 0.899841, test avg acc: 0.849306, test iou: 0.828032
+Namespace(batch_size=32, class_choice=None, dataset='shapenetpart', dropout=0.5, emb_dims=1024, epochs=200, eval=True, exp_name='partseg_eval', k=40, lr=0.001, model='dgcnn', model_path='outputs/partseg/models/model.t7', momentum=0.9, no_cuda=False, num_points=2048, scheduler='cos', seed=1, test_batch_size=16, use_sgd=True, visu='', visu_format='ply')
+Using GPU : 0 from 1 devices
+Namespace(batch_size=32, class_choice=None, dataset='shapenetpart', dropout=0.5, emb_dims=1024, epochs=200, eval=True, exp_name='partseg_eval', k=40, lr=0.001, model='dgcnn', model_path='outputs/partseg/models/model.t7', momentum=0.9, no_cuda=False, num_points=2048, scheduler='cos', seed=1, test_batch_size=16, use_sgd=True, visu='', visu_format='ply')
+Using GPU : 0 from 1 devices
+Test :: test acc: 0.917908, test avg acc: 0.874238, test iou: 0.842757
+Namespace(batch_size=32, class_choice=None, dataset='shapenetpart', dropout=0.5, emb_dims=1024, epochs=200, eval=True, exp_name='partseg_eval', k=40, lr=0.001, model='dgcnn', model_path='outputs/partseg/models/model.t7', momentum=0.9, no_cuda=False, num_points=2048, scheduler='cos', seed=1, test_batch_size=16, use_sgd=True, visu='', visu_format='ply')
+Using GPU : 0 from 1 devices
+Test :: test acc: 0.943310, test avg acc: 0.835884, test iou: 0.851944
+Namespace(batch_size=32, class_choice=None, dataset='shapenetpart', dropout=0.5, emb_dims=1024, epochs=200, eval=True, exp_name='partseg_eval', k=40, lr=0.001, model='dgcnn', model_path='outputs/partseg/models/model.t7', momentum=0.9, no_cuda=False, num_points=2048, scheduler='cos', seed=1, test_batch_size=16, use_sgd=True, visu='', visu_format='ply')
+Using GPU : 0 from 1 devices
+Test :: test acc: 0.943310, test avg acc: 0.835884, test iou: 0.851944
+Namespace(batch_size=32, class_choice=None, dataset='shapenetpart', dropout=0.5, emb_dims=1024, epochs=200, eval=True, exp_name='partseg_eval', k=40, lr=0.001, model='dgcnn', model_path='outputs/partseg/models/model.t7', momentum=0.9, no_cuda=False, num_points=2048, scheduler='cos', seed=1, test_batch_size=16, use_sgd=True, visu='', visu_format='ply')
+Using GPU : 0 from 1 devices
+Test :: test acc: 0.943310, test avg acc: 0.835884, test iou: 0.851944
+Namespace(batch_size=32, class_choice=None, dataset='shapenetpart', dropout=0.5, emb_dims=1024, epochs=200, eval=True, exp_name='partseg_eval', k=40, lr=0.001, model='dgcnn', model_path='outputs/partseg/models/model.t7', momentum=0.9, no_cuda=False, num_points=2048, scheduler='cos', seed=1, test_batch_size=16, use_sgd=True, visu='airplane_0', visu_format='ply')
+Using GPU : 0 from 1 devices
+Test :: test acc: 0.943310, test avg acc: 0.835884, test iou: 0.851944
+Namespace(batch_size=32, class_choice=None, dataset='shapenetpart', dropout=0.5, emb_dims=1024, epochs=200, eval=True, exp_name='partseg_eval', k=40, lr=0.001, model='dgcnn', model_path='outputs/partseg/models/model.t7', momentum=0.9, no_cuda=False, num_points=2048, scheduler='cos', seed=1, test_batch_size=16, use_sgd=True, visu='airplane_0', visu_format='txt')
+Using GPU : 0 from 1 devices
+Test :: test acc: 0.943310, test avg acc: 0.835884, test iou: 0.851944
+Namespace(batch_size=32, class_choice=None, dataset='shapenetpart', dropout=0.5, emb_dims=1024, epochs=200, eval=True, exp_name='partseg_eval', k=40, lr=0.001, model='dgcnn', model_path='pretrained/model.partseg.t7', momentum=0.9, no_cuda=False, num_points=2048, scheduler='cos', seed=1, test_batch_size=16, use_sgd=True, visu='airplane_0', visu_format='txt')
+Using GPU : 0 from 1 devices
+Test :: test acc: 0.942530, test avg acc: 0.831510, test iou: 0.851891
+Namespace(batch_size=32, class_choice=None, dataset='shapenetpart', dropout=0.5, emb_dims=1024, epochs=200, eval=True, exp_name='partseg_eval', k=40, lr=0.001, model='dgcnn', model_path='outputs/partseg/models/model.t7', momentum=0.9, no_cuda=False, num_points=2048, scheduler='cos', seed=1, test_batch_size=16, use_sgd=True, visu='airplane', visu_format='txt')
+Using GPU : 0 from 1 devices
+Test :: test acc: 0.943310, test avg acc: 0.835884, test iou: 0.851944
+Namespace(batch_size=32, class_choice=None, dataset='shapenetpart', dropout=0.5, emb_dims=1024, epochs=200, eval=True, exp_name='partseg_eval', k=40, lr=0.001, model='dgcnn', model_path='pretrained/model.partseg.t7', momentum=0.9, no_cuda=False, num_points=2048, scheduler='cos', seed=1, test_batch_size=16, use_sgd=True, visu='airplane_0', visu_format='ply')
+Using GPU : 0 from 1 devices
+Test :: test acc: 0.942530, test avg acc: 0.831510, test iou: 0.851891
+Namespace(batch_size=32, class_choice=None, dataset='shapenetpart', dropout=0.5, emb_dims=1024, epochs=200, eval=True, exp_name='partseg_eval', k=40, lr=0.001, model='dgcnn', model_path='outputs/partseg/models/model.t7', momentum=0.9, no_cuda=False, num_points=2048, scheduler='cos', seed=1, test_batch_size=16, use_sgd=True, visu='airplane_0', visu_format='ply')
+Using GPU : 0 from 1 devices
+Test :: test acc: 0.943310, test avg acc: 0.835884, test iou: 0.851944
+Namespace(batch_size=32, class_choice=None, dataset='shapenetpart', dropout=0.5, emb_dims=1024, epochs=200, eval=True, exp_name='partseg_eval', k=40, lr=0.001, model='dgcnn', model_path='pretrained/model.partseg.t7', momentum=0.9, no_cuda=False, num_points=2048, scheduler='cos', seed=1, test_batch_size=16, use_sgd=True, visu='', visu_format='ply')
+Using GPU : 0 from 1 devices
+Test :: test acc: 0.942530, test avg acc: 0.831510, test iou: 0.851891
+Namespace(batch_size=32, class_choice=None, dataset='shapenetpart', dropout=0.5, emb_dims=1024, epochs=200, eval=True, exp_name='partseg_eval', k=40, lr=0.001, model='dgcnn', model_path='outputs/partseg/models/model.t7', momentum=0.9, no_cuda=False, num_points=2048, scheduler='cos', seed=1, test_batch_size=16, use_sgd=True, visu='airplane', visu_format='ply')
+Using GPU : 0 from 1 devices
+Test :: test acc: 0.943310, test avg acc: 0.835884, test iou: 0.851944
+Namespace(batch_size=32, class_choice=None, dataset='shapenetpart', dropout=0.5, emb_dims=1024, epochs=200, eval=True, exp_name='partseg_eval', k=40, lr=0.001, model='dgcnn', model_path='pretrained/model.partseg.t7', momentum=0.9, no_cuda=False, num_points=2048, scheduler='cos', seed=1, test_batch_size=16, use_sgd=True, visu='airplane', visu_format='ply')
+Using GPU : 0 from 1 devices
+Test :: test acc: 0.942530, test avg acc: 0.831510, test iou: 0.851891
+Namespace(batch_size=32, class_choice=None, dataset='shapenetpart', dropout=0.5, emb_dims=1024, epochs=200, eval=True, exp_name='partseg_eval', k=40, lr=0.001, model='dgcnn', model_path='outputs/partseg/models/model.t7', momentum=0.9, no_cuda=False, num_points=2048, scheduler='cos', seed=1, test_batch_size=16, use_sgd=True, visu='all', visu_format='ply')
+Using GPU : 0 from 1 devices
+Test :: test acc: 0.943310, test avg acc: 0.835884, test iou: 0.851944
+Namespace(batch_size=32, class_choice=None, dataset='shapenetpart', dropout=0.5, emb_dims=1024, epochs=200, eval=True, exp_name='partseg_eval', k=40, lr=0.001, model='dgcnn', model_path='pretrained/model.partseg.t7', momentum=0.9, no_cuda=False, num_points=2048, scheduler='cos', seed=1, test_batch_size=16, use_sgd=True, visu='all', visu_format='ply')
+Using GPU : 0 from 1 devices
+Test :: test acc: 0.942530, test avg acc: 0.831510, test iou: 0.851891
